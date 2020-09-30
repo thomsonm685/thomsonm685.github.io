@@ -1,1 +1,12 @@
 ~ $ clone https://github.com/thomsonm685/thomsonm685.github.io
+
+cd thomsonm685.github.io
+
+echo "Hello World" > index.html
+
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin master
